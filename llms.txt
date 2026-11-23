@@ -1,0 +1,15 @@
+# Egils Rør AS
+
+- Bransje: Rørleggerarbeid
+- Sted: Hønefoss
+- E-post: post@egilsror.no
+- Telefon: 977 51 816
+
+## Tjenester
+
+- Rørleggerarbeid: Vann, avløp og utstyr på bad, kjøkken og vaskerom, i nye og eldre hjem.
+- Reparasjoner: Lekker det, renner det dårlig eller virker ikke utstyret? Vi finner feilen og reparerer.
+
+## Om nettsiden
+
+Laget av Nettsideferdig (https://nettsideferdig.no/).
